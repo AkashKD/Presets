@@ -1,0 +1,389 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "name": "Nothing Selected",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 0,
+        "maxSize": 0,
+        "unit": "na"
+      },
+      "instructions": []
+    },
+    {
+      "id": 2,
+      "name": "Passport",
+      "dimensions": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "fileSize": {
+        "minSize": 0,
+        "maxSize": 0,
+        "unit": "na"
+      },
+      "instructions": []
+    },
+    {
+      "id": 3,
+      "name": "SBI/IBPS Photograph",
+      "dimensions": {
+        "width": 3.5,
+        "height": 4.5,
+        "unit": "cm"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": [
+        "Photograph must be a recent passport style colour picture.",
+        "Make sure that the picture is coloured and is taken against a light-coloured, preferably white background.",
+        "Look straight at the camera with a relaxed face.",
+        "If the picture is taken on a sunny day, have the sun behind you, or place yourself in the shade, so that you are not squinting and there are no harsh shadows.",
+        "If you have to use flash, ensure there is no 'red-eye'.",
+        "If you wear glasses, make sure that there are no reflections and your eyes are clearly visible.",
+        "Caps, hats and dark glasses are not acceptable. Religious headwear is allowed but it must not cover the face.",
+        "It is advisable that the candidate retains 8 copies (approx.) of the same photograph which is uploaded at the time of online registration of application as these would be needed for further process of this selection process."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "SBI/IBPS Signature",
+      "dimensions": {
+        "width": 140,
+        "height": 60,
+        "unit": "px"
+      },
+      "fileSize": {
+        "minSize": 10,
+        "maxSize": 20,
+        "unit": "kb"
+      },
+      "instructions": [
+        "The applicant has to sign on white paper with Black Ink pen.",
+        "The signature must be signed only by the applicant and not by any other person.",
+        "The signature will be used to put on the Call Letter and wherever necessary.",
+        "If the Applicant’s signature on the answer script, at the time of the examination, does not match the signature on the Call Letter, the applicant will be disqualified.",
+        "Signature in CAPITAL LETTERS shall NOT be accepted."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "SBI/IBPS Thumb Impression",
+      "dimensions": {
+        "width": 3,
+        "height": 3,
+        "unit": "cm"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": [
+        "The applicant has to put his left-hand thumb impression on a white paper with black or blue ink."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "SBI/IBPS Hand-Written Declaration",
+      "dimensions": {
+        "width": 10,
+        "height": 5,
+        "unit": "cm"
+      },
+      "fileSize": {
+        "minSize": 50,
+        "maxSize": 100,
+        "unit": "kb"
+      },
+      "instructions": [
+        "The applicant has to write the declaration in English clearly on a white paper with black ink.",
+        "Hand-Written Declaration in CAPITAL LETTERS shall NOT be accepted."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "SSC Photograph",
+      "dimensions": {
+        "width": 3.5,
+        "height": 4.5,
+        "unit": "cm"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": [
+        "The photograph should be without cap, spectacles and both ears should be visible.",
+        "Applications with poor quality, miniature and blurred photographs/side facing photographs will be rejected."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "SSC Signature",
+      "dimensions": {
+        "width": 4,
+        "height": 3,
+        "unit": "cm"
+      },
+      "fileSize": {
+        "minSize": 10,
+        "maxSize": 20,
+        "unit": "kb"
+      },
+      "instructions": [
+        "The applicant has to sign on white paper with Black Ink pen.",
+        "The signature must be signed only by the applicant and not by any other person.",
+        "The signature will be used to put on the Call Letter and wherever necessary.",
+        "If the Applicant’s signature on the answer script, at the time of the examination, does not match the signature on the Call Letter, the applicant will be disqualified.",
+        "Signature in CAPITAL LETTERS shall NOT be accepted."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "UPSC Photograph",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 300,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 10,
+      "name": "UPSC Signature",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 300,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 11,
+      "name": "RRB Photograph",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 30,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": [
+        "Recent, clear colour passport size photograph (against a plain white background) of the candidate in JPEG image.",
+        "Look straight at the camera with a relaxed face.",
+        "If the picture is taken on a sunny day, have the sun behind you, or place yourself in the shade, so that you are not squinting and there are no harsh shadows.",
+        "If you have to use flash, ensure there is no 'red-eye'.",
+        "If you wear glasses make sure that there are no reflections and your eyes are clearly visible.",
+        "Caps, hats and dark glasses are not acceptable. Religious headwear is allowed but it must not cover the face.",
+        "Candidates are advised to keep at least 12 (Twelve) copies of the same photograph for further use as and when required during the recruitment process."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "RRB Signature",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 30,
+        "maxSize": 70,
+        "unit": "kb"
+      },
+      "instructions": [
+        "The applicant has to sign on white paper.",
+        "Signature must be in running hand and NOT in Block/Capital or Disjointed letters."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "OSSSC Photograph",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 100,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 14,
+      "name": "OSSSC Signature",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 15,
+      "name": "OSSC Photograph",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 100,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 16,
+      "name": "OSSC Signature",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 17,
+      "name": "OSSC Thumb",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 18,
+      "name": "OPSC Photograph",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 100,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 19,
+      "name": "OPSC Signature",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 20,
+      "name": "OPSC Thumb",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 21,
+      "name": "DRDO CEPTAM Photograph",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 15,
+        "maxSize": 40,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 22,
+      "name": "DRDO CEPTAM Signature",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 15,
+        "maxSize": 40,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 23,
+      "name": "DRDO CEPTAM Certificate/Documents",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 50,
+        "maxSize": 100,
+        "unit": "kb"
+      },
+      "instructions": []
+    }
+  ]
+}
