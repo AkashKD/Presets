@@ -385,5 +385,20 @@
       },
       "instructions": []
     }
+      {
+      "id": 24,
+      "name": "Newly Added",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 50,
+        "maxSize": 100,
+        "unit": "kb"
+      },
+      "instructions": []
+    }
   ]
 }
