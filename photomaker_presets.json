@@ -385,5 +385,20 @@
       },
       "instructions": []
     }
+    {
+      "id": 23,
+      "name": "DRDO CEPTAM Certificate/Documents",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 50,
+        "maxSize": 100,
+        "unit": "kb"
+      },
+      "instructions": []
+    }
   ]
 }
