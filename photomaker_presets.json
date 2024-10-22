@@ -358,11 +358,6 @@
     {
       "id": 22,
       "name": "DRDO CEPTAM Signature",
-      "dimensions": {
-        "width": 0,
-        "height": 0,
-        "unit": "na"
-      },
       "fileSize": {
         "minSize": 15,
         "maxSize": 40,
