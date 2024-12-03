@@ -385,7 +385,38 @@
         "unit": "kb"
       },
       "instructions": []
+    },
+     {
+      "id": 24,
+      "name": "UGC - NET Photograph",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 10,
+        "maxSize": 200,
+        "unit": "kb"
+      },
+      "instructions": ["a recent photograph either in colour or black & white with 80% face (without mask) visible including ears against White Background."]
+    },
+    {
+      "id": 25,
+      "name": "UGC - NET Signature",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 4,
+        "maxSize": 30,
+        "unit": "kb"
+      },
+      "instructions": []
     }
+    
 
   ]
 }
