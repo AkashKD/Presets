@@ -416,7 +416,54 @@
       },
       "instructions": []
     }
+    ,
+       {
+      "id": 26,
+      "name": "Indian Air Force(IAF) Photograph",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 10,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": [ "Name of Photo File should be Passport Photograph.jpg or Passport Photograph.jpeg",
+        "Upload un-attested recent passport size colour photograph (front portrait without headgear, exceptfor Sikhs)"]
+    },
     
+    {
+      "id": 27,
+      "name": "Indian Air Force(IAF) Signature",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 10,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": [ "Name of the Signature File should be Signature.jpg or Signature.jpeg"]
+    },
+    {
+      "id": 28,
+      "name": "Indian Air Force(IAF) Thumb",
+      "dimensions": {
+        "width": 0,
+        "height": 0,
+        "unit": "na"
+      },
+      "fileSize": {
+        "minSize": 10,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": [ "Thumb Impression.jpg or Thumb Impression.jpeg","Left thumb for male applicants and right thumb for female applicants) - created by pressing on ink stamp pad and then on plain blank paper"]
+    }
 
   ]
 }
