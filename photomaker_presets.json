@@ -420,6 +420,7 @@
        {
       "id": 26,
       "name": "Indian Air Force(IAF) Photograph",
+         "fileName":"Passport Photograph",
       "dimensions": {
         "width": 0,
         "height": 0,
@@ -437,6 +438,7 @@
     {
       "id": 27,
       "name": "Indian Air Force(IAF) Signature",
+      "fileName":"Signature",
       "dimensions": {
         "width": 0,
         "height": 0,
@@ -452,6 +454,7 @@
     {
       "id": 28,
       "name": "Indian Air Force(IAF) Thumb",
+      "fileName":"Thumb Impression",
       "dimensions": {
         "width": 0,
         "height": 0,
