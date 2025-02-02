@@ -36,7 +36,8 @@
       "dimensions": {
         "width": 3.5,
         "height": 4.5,
-        "unit": "cm"
+        "unit": "cm",
+        "dpi":200
       },
       "fileSize": {
         "minSize": 20,
