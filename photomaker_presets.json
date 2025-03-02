@@ -22,7 +22,7 @@
         "width": 35,
         "height": 45,
         "unit": "mm",
-        "dpi":200
+        "dpi":300
       },
       "fileSize": {
         "minSize": 0,
@@ -472,7 +472,56 @@
         "unit": "kb"
       },
       "instructions": [ "Name of the Thumb File should be Thumb Impression.jpg or Thumb Impression.jpeg","Left thumb for male applicants and right thumb for female applicants) - created by pressing on ink stamp pad and then on plain blank paper"]
+    },
+       {
+      "id": 29,
+      "name": "Stamp Size",
+      "dimensions": {
+        "width": 20,
+        "height": 25,
+        "unit": "mm",
+        "dpi":300
+      },
+      "fileSize": {
+        "minSize": 0,
+        "maxSize": 0,
+        "unit": "na"
+      },
+      "instructions": []
+    },
+    {
+      "id": 30,
+      "name": "Central Industrial Security Force (CISF) Photograph",
+      "dimensions": {
+        "width": 3.5,
+        "height": 4.5,
+        "unit": "cm",
+        "dpi":200
+      },
+      "fileSize": {
+        "minSize": 20,
+        "maxSize": 50,
+        "unit": "kb"
+      },
+      "instructions": []
+    },
+    {
+      "id": 31,
+      "name": "Central Industrial Security Force (CISF) Signature",
+      "dimensions": {
+        "width": 4,
+        "height": 2,
+        "unit": "cm",
+        "dpi":200
+      },
+      "fileSize": {
+        "minSize": 10,
+        "maxSize": 20,
+        "unit": "kb"
+      },
+      "instructions": []
     }
+
 
   ]
 }
